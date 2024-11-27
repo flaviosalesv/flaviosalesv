@@ -7,19 +7,10 @@ Hello! I'm Flávio. I'm passionate about technology and constantly exploring new
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
 </p>
-- Technologies: <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/tailwindcss-mark.svg" alt="TailwindCSS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
-</p>
-
-## GitHub Stats 📊
-
-![Flávio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioSalesV&show_icons=true&theme=radical)
-
 
 ## Contact 📫
 You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/flaviosalesv/)
+- ✉️ Email: flavio.salesv@gmail.com
 
 Feel free to reach out to me if you'd like to collaborate on interesting projects or just to exchange ideas!
