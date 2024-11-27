@@ -2,8 +2,8 @@
 Hello! I'm Flávio. I'm passionate about technology and constantly exploring new ways to create innovative solutions for real-world challenges.
 
 ## My Skills 💻
-- Programming Languages: Python | Javascript | Typescript | Swift |...
-- Technologies: Django | Flask | SQL | React | SwiftUI |...
+- Programming Languages: Javascript | Typescript | Python
+- Technologies: React | Tailwind | Django
 
 ## Contact 📫
 You can find me on:
