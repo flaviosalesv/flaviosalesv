@@ -18,8 +18,8 @@ Hello! I'm Flávio. I'm passionate about technology and constantly exploring new
 ## 💼🔧 Active Collaboration
 
 - **[Sweetr.dev](https://github.com/sweetr-dev/sweetr.dev)**  
-  I'm actively collaborating on this project, focused on creating an innovative platform to enhance workflow automation and development team productivity.  
-  My contributions include front-end development, landing page improvements, and feature integration.
+  I'm actively collaborating on this project, working on both front-end and back-end development to bring continuous improvements to the platform.  
+  My contributions include enhancing the landing page, integrating new features, and improving the overall workflow automation and development team productivity.
 
 ---
 
