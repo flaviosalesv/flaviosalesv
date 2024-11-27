@@ -9,7 +9,7 @@ Hello! I'm Flávio. I'm passionate about technology and constantly exploring new
 </p>
 - Technologies: <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/tailwindcss-mark.svg" alt="TailwindCSS" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
 </p>
 
